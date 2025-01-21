@@ -2,21 +2,18 @@
   "current_versions": [
     {
       "app_name": "App1",
-      "platform": "Android",
       "build_name": "1.0.2",
       "release_version": "1.0.2",
       "release_date": "2025-01-10"
     },
     {
       "app_name": "App1",
-      "platform": "iOS",
       "build_name": "1.0.3",
       "release_version": "1.0.3",
       "release_date": "2025-01-08"
     },
     {
       "app_name": "App1",
-      "platform": "Web",
       "build_name": "1.0.4",
       "release_version": "1.0.4",
       "release_date": "2025-01-05"
