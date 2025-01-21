@@ -36,13 +36,20 @@
       "release_date": "2025-01-05"
     }, {
       "app_name": "App6",
+      "platform": "Android",
+      "build_name": "1.0.2",
+      "release_version": "1.0.2",
+      "release_date": "2025-01-10"
+    },
+    {
+      "app_name": "App7",
       "platform": "iOS",
       "build_name": "1.0.3",
       "release_version": "1.0.3",
       "release_date": "2025-01-08"
     },
     {
-      "app_name": "App7",
+      "app_name": "App8",
       "platform": "Web",
       "build_name": "1.0.4",
       "release_version": "1.0.4",
