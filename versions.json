@@ -20,54 +20,6 @@
       "build_name": "1.0.4",
       "release_version": "1.0.4",
       "release_date": "2025-01-05"
-    },
-     {
-      "app_name": "App4",
-      "platform": "iOS",
-      "build_name": "1.0.3",
-      "release_version": "1.0.3",
-      "release_date": "2025-01-08"
-    },
-    {
-      "app_name": "App5",
-      "platform": "Web",
-      "build_name": "1.0.4",
-      "release_version": "1.0.4",
-      "release_date": "2025-01-05"
-    }, {
-      "app_name": "App6",
-      "platform": "Android",
-      "build_name": "1.0.2",
-      "release_version": "1.0.2",
-      "release_date": "2025-01-10"
-    },
-    {
-      "app_name": "App7",
-      "platform": "iOS",
-      "build_name": "1.0.3",
-      "release_version": "1.0.3",
-      "release_date": "2025-01-08"
-    },
-    {
-      "app_name": "App8",
-      "platform": "Web",
-      "build_name": "1.0.4",
-      "release_version": "1.0.4",
-      "release_date": "2025-01-05"
-    },
-    {
-      "app_name": "App9",
-      "platform": "Android",
-      "build_name": "1.0.9",
-      "release_version": "1.0.9",
-      "release_date": "2024-11-15"
-    },
-    {
-      "app_name": "App10",
-      "platform": "Web",
-      "build_name": "1.0.6",
-      "release_version": "1.0.6",
-      "release_date": "2024-10-24"
     }
   ]
 }
