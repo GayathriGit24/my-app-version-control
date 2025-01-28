@@ -1,0 +1,52 @@
+[
+    {
+        "userid": "1",
+        "username": "johndoe",
+        "role": "admin"
+    },
+    {
+        "userid": "2",
+        "username": "janesmith",
+        "role": "superadmin"
+    },
+    {
+        "userid": "3",
+        "username": "mikejones",
+        "role": "authenticated_user"
+    },
+    {
+        "userid": "4",
+        "username": "saraconnor",
+        "role": "admin"
+    },
+    {
+        "userid": "5",
+        "username": "tombrown",
+        "role": "authenticated_user"
+    },
+    {
+        "userid": "6",
+        "username": "lisawhite",
+        "role": "superadmin"
+    },
+    {
+        "userid": "7",
+        "username": "davidgreen",
+        "role": "admin"
+    },
+    {
+        "userid": "8",
+        "username": "emilyjohnson",
+        "role": "authenticated_user"
+    },
+    {
+        "userid": "9",
+        "username": "chrisbrown",
+        "role": "authenticated_user"
+    },
+    {
+        "userid": "10",
+        "username": "patriciamiller",
+        "role": "superadmin"
+    }
+]
