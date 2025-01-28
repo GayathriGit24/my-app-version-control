@@ -1,0 +1,56 @@
+{
+  "english_users": [
+    {
+      "fcmToken": "EN123456ABC",
+      "en_title": "Welcome",
+      "en_message": "Thank you for joining us!"
+    },
+    {
+      "fcmToken": "EN234567DEF",
+      "en_title": "Update",
+      "en_message": "New features are now available."
+    },
+    {
+      "fcmToken": "EN345678GHI",
+      "en_title": "Reminder",
+      "en_message": "Don't forget to check your notifications."
+    },
+    {
+      "fcmToken": "EN456789JKL",
+      "en_title": "Alert",
+      "en_message": "Your account settings have been updated."
+    },
+    {
+      "fcmToken": "EN567890MNO",
+      "en_title": "News",
+      "en_message": "Check out our latest articles."
+    }
+  ],
+  "arabic_users": [
+    {
+      "fcmToken": "AR123456ABC",
+      "ar_title": "مرحبا",
+      "ar_message": "شكراً لانضمامك إلينا!"
+    },
+    {
+      "fcmToken": "AR234567DEF",
+      "ar_title": "تحديث",
+      "ar_message": "الميزات الجديدة متاحة الآن."
+    },
+    {
+      "fcmToken": "AR345678GHI",
+      "ar_title": "تذكير",
+      "ar_message": "لا تنسَ التحقق من إشعاراتك."
+    },
+    {
+      "fcmToken": "AR456789JKL",
+      "ar_title": "تنبيه",
+      "ar_message": "تم تحديث إعدادات حسابك."
+    },
+    {
+      "fcmToken": "AR567890MNO",
+      "ar_title": "أخبار",
+      "ar_message": "تحقق من مقالاتنا الأخيرة."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+    "en_group": [
+      {
+        "topic_en": "topic_en",
+        "en_title": "News",
+        "en_message": "Check out our latest articles."
+      }
+    ],
+    "ar_group": [
+      {
+        "topic_ar": "topic_ar",
+        "ar_title": "أخبار",
+        "ar_message": "تحقق من مقالاتنا الأخيرة."
+      }
+    ]
+}
